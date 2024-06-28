@@ -60,12 +60,12 @@ a {text-decoration: none;}
 
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
 }
-.hero-button {
+.button {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -74,10 +74,10 @@ a {text-decoration: none;}
         background-color: #4d5ae5;
         cursor: pointer;
 }
-button:hover {
+.button:hover {
     color: #404BBF;
 }
-button:focus {
+.button:focus {
     color: #404BBF;
 }
 
