@@ -74,10 +74,10 @@ a {text-decoration: none;}
         background-color: #4d5ae5;
         cursor: pointer;
 }
-.hero-button:hover {
+button:hover {
     color: #404BBF;
 }
-.hero-button:focus {
+button:focus {
     color: #404BBF;
 }
 
