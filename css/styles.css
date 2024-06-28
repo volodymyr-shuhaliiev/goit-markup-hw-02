@@ -77,10 +77,10 @@ a {text-decoration: none;}
 .button:hover,
 .button:focus {
     color: #404BBF;
-}g
+}
 
 /* SECTION ADVANTAGES */
-.section-name {
+.sectionname {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -88,8 +88,6 @@ a {text-decoration: none;}
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize
-    
-    
 }
 .team-backround {
 background-color: #f4f4fd;
@@ -123,7 +121,7 @@ background-color: #f4f4fd;
     text-align: center;
     color: #2e2f42;
 }
-.team-position {
+.team-pos {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
