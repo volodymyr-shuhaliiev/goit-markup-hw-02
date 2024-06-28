@@ -1,10 +1,9 @@
 
 
 body {
-    font-family: "Roboto",
-            sans-serif;
-    color: var(--navy-blue);
-    background-color: var(--white); }
+    font-family: "Roboto", sans-serif;
+    color:#434455;
+    background-color: #FFFFFF; }
 
 ul, ol {list-style-type: none; }
 a {text-decoration: none;}
@@ -59,7 +58,7 @@ a {text-decoration: none;}
 }
 .hero-name {
 
-         font-weight: 700;
+        font-weight: 700;
         font-size: 56px;
         line-height: 1.07143;
         letter-spacing: 0.02em;
@@ -72,19 +71,25 @@ a {text-decoration: none;}
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #4d5ae5;
         cursor: pointer;
+}
+.hero-button:hover {
+    color: #404BBF;
+}
+.hero-button:focus {
+    color: #404BBF;
 }
 
 /* SECTION ADVANTAGES */
 .section-name {
-           font-weight: 700;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize
     
     
 }
