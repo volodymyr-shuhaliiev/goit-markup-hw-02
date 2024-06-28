@@ -111,6 +111,9 @@ background-color: #f4f4fd;
 }
 
 /* SECTION OUR TEAM */
+.team-section {
+    background-color: #F4F4FD;
+}
 .team-card {
     background-color: #FFFFFF;
 }
