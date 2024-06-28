@@ -74,12 +74,10 @@ a {text-decoration: none;}
         background-color: #4d5ae5;
         cursor: pointer;
 }
-.button:hover {
-    color: #404BBF;
-}
+.button:hover,
 .button:focus {
     color: #404BBF;
-}
+}g
 
 /* SECTION ADVANTAGES */
 .section-name {
