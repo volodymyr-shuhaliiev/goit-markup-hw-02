@@ -110,7 +110,10 @@ background-color: #f4f4fd;
         color: #434455;
 }
 
-/* SECTION OUR MEMBER */
+/* SECTION OUR TEAM */
+.team-card {
+    background-color: #FFFFFF;
+}
 .team-member {
     font-weight: 500;
     font-size: 20px;
